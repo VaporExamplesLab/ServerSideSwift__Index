@@ -1,4 +1,4 @@
-004.77 "Server Side Swift with Vapor": <br>Vapor 2 + Swift 4 Tutorial Supplements
+"Server Side Swift with Vapor"<br>Vapor 2 + Swift 4 Tutorial Supplements
 ==========================
 
 <a id="toc"></a>
@@ -40,29 +40,29 @@ brew install vapor
 Project Materials <a id="ProjectMaterials">[▴](#toc)</a>
 --------
 
-* [**`A_HelloRoutesWeb`**](https://github.com/VaporExamplesLab/ServerSideSwift_A_HelloRoutesWeb/README.md) [Video 1: Getting Started]   
-    [![](https://i.ytimg.com/vi/Gj9kZnWajBE/mqdefault.jpg "Vapor Getting Started") ](A_HelloRoutesWeb/README.md)
-* [**`B_LeafTemplatingWeb`**](https://github.com/VaporExamplesLab/ServerSideSwift_B_LeafTemplatingWeb/README.md) [Video 2: Templating with Leaf]  
-    [![](https://i.ytimg.com/vi/KZX5VN5uHB0/mqdefault.jpg "Templating With Leaf") ](B_LeafTemplatingWeb/README.md)
-* [**`C_FluentSqliteApi`**](https://github.com/VaporExamplesLab/ServerSideSwift_C_FluentSqliteApi/README.md) [Video 3: Configuring a Database]   
-    [![](https://i.ytimg.com/vi/qyj1xv4YVxU/mqdefault.jpg "Configuring a Database") ](C_FluentSqliteApi/README.md)  
+* [**`A_HelloRoutesWeb`**](https://github.com/VaporExamplesLab/ServerSideSwift_A_HelloRoutesWeb) [Video 1: Getting Started]   
+    [![](https://i.ytimg.com/vi/Gj9kZnWajBE/mqdefault.jpg "Vapor Getting Started") ](https://github.com/VaporExamplesLab/ServerSideSwift_A_HelloRoutesWeb)
+* [**`B_LeafTemplatingWeb`**](https://github.com/VaporExamplesLab/ServerSideSwift_B_LeafTemplatingWeb) [Video 2: Templating with Leaf]  
+    [![](https://i.ytimg.com/vi/KZX5VN5uHB0/mqdefault.jpg "Templating With Leaf") ](https://github.com/VaporExamplesLab/ServerSideSwift_B_LeafTemplatingWeb)
+* [**`C_FluentSqliteApi`**](https://github.com/VaporExamplesLab/ServerSideSwift_C_FluentSqliteApi) [Video 3: Configuring a Database]   
+    [![](https://i.ytimg.com/vi/qyj1xv4YVxU/mqdefault.jpg "Configuring a Database") ](https://github.com/VaporExamplesLab/ServerSideSwift_C_FluentSqliteApi)  
     * (NYI: maybe do `C_FluentSqliteWeb` based on the vapor "web" template.)  
-* [**`D_FluentModelApi`**](https://github.com/VaporExamplesLab/ServerSideSwift_D_FluentModelApi/README.md) [Video 4: Persisting Models], [Video 5: CRUD Database Options].  
-    [![](https://i.ytimg.com/vi/9ig7pVizpP8/mqdefault.jpg "Persisting Models") ](D_FluentModelApi/README.md)[![](https://i.ytimg.com/vi/09w5vw_SsTQ/mqdefault.jpg "CRUD Database Options") ](D_FluentModelApi/README.md) 
-* **`E_Deploy`**[](https://github.com/VaporExamplesLab/ServerSideSwift_E_Deploy/README.md) _[Video 6: Heroku Deployment] Skipped. Alternately, other deployment options like [DigitalOcean](https://medium.com/@BenjaminKJohnson/deploying-a-vapor-web-app-on-digitalocean-3bdeb4f504de) and [Vapor Cloud](https://vapor.cloud/) are also available._ 
-* [**`F_BeautifyingPagesAwt`**](https://github.com/VaporExamplesLab/ServerSideSwift_F_BeautifyingPagesAwt/README.md) [Video 7: Beautifying Pages with Skeleton]   
-    [![](https://i.ytimg.com/vi/x20XMYldIBE/mqdefault.jpg "Beautifying Pages") ](F_BeautifyingPagesAwt/README.md)     
+* [**`D_FluentModelApi`**](https://github.com/VaporExamplesLab/ServerSideSwift_D_FluentModelApi) [Video 4: Persisting Models], [Video 5: CRUD Database Options].  
+    [![](https://i.ytimg.com/vi/9ig7pVizpP8/mqdefault.jpg "Persisting Models") ](https://github.com/VaporExamplesLab/ServerSideSwift_D_FluentModelApi)[![](https://i.ytimg.com/vi/09w5vw_SsTQ/mqdefault.jpg "CRUD Database Options") ](https://github.com/VaporExamplesLab/ServerSideSwift_D_FluentModelApi) 
+* **`E_Deploy`**[](https://github.com/VaporExamplesLab/ServerSideSwift_E_Deploy) _[Video 6: Heroku Deployment] Skipped. Alternately, other deployment options like [DigitalOcean](https://medium.com/@BenjaminKJohnson/deploying-a-vapor-web-app-on-digitalocean-3bdeb4f504de) and [Vapor Cloud](https://vapor.cloud/) are also available._ 
+* [**`F_BeautifyingPagesAwt`**](https://github.com/VaporExamplesLab/ServerSideSwift_F_BeautifyingPagesAwt) [Video 7: Beautifying Pages with Skeleton]   
+    [![](https://i.ytimg.com/vi/x20XMYldIBE/mqdefault.jpg "Beautifying Pages") ](https://github.com/VaporExamplesLab/ServerSideSwift_F_BeautifyingPagesAwt)     
     <!-- NYI: Bootstrap, MathJAX, Highlight.js -->
-* [**`G_MakingAWebAppAwt`**](https://github.com/VaporExamplesLab/ServerSideSwift_G_MakingAWebAppAwt/README.md) [Video 8: Making a Web App]  
-    [![](https://i.ytimg.com/vi/-Nz68TaJsXI/mqdefault.jpg "Making A Web App") ](G_MakingAWebAppAwt/README.md) 
-* [**`H_ControllersAwt`**](https://github.com/VaporExamplesLab/ServerSideSwift_H_ControllersAwt/README.md) [Video 9: Basic Controllers], [Video 10: RESTful Controllers]  
-    [![](https://i.ytimg.com/vi/g3w9u_xKNPo/mqdefault.jpg "Basic Controllers") ](H_ControllersAwt/README.md) [![](https://i.ytimg.com/vi/K45UE3EN3X4/mqdefault.jpg "RESTful Controllers") ](H_ControllersAwt/README.md) 
-* [**`I_ValidationAwt`**](https://github.com/VaporExamplesLab/ServerSideSwift_I_ValidationAwt/README.md) [Video 11: Basic Validation], [Video 12: Custom Validation]  
-    [![](https://i.ytimg.com/vi/s_JV3tP9rVs/mqdefault.jpg "Basic Validation") ](I_ValidationAwt/README.md) [![](https://i.ytimg.com/vi/_No50xoCZZE/mqdefault.jpg "Custom Validation") ](I_ValidationAwt/README.md) 
-* [**`J_RelationsAwt`**](https://github.com/VaporExamplesLab/ServerSideSwift_J_RelationsAwt/README.md) [Video 13: Parent-Child Relations], [Video 14: Sibling Relations]  
-    [![](https://i.ytimg.com/vi/acDMbAhHTbI/mqdefault.jpg "Parent-Child Relations") ](J_RelationsAwt/README.md) [![](https://i.ytimg.com/vi/FNefMUPsITY/mqdefault.jpg "Sibling Relations") ](J_RelationsAwt/README.md)
-* [**`K_UsersAwt`**](https://github.com/VaporExamplesLab/ServerSideSwift_K_UsersAwt/README.md) [Video 15: Registering Users], [Video 16: Authentication with Turnstile]  
-    [![](https://i.ytimg.com/vi/mAiZTB-ZEDY/mqdefault.jpg "Registering Users") ](K_UsersAwt/README.md) [![](https://i.ytimg.com/vi/gmD59CRcXtQ/mqdefault.jpg "Authentication with Turnstile") ](K_UsersAwt/README.md)
+* [**`G_MakingAWebAppAwt`**](https://github.com/VaporExamplesLab/ServerSideSwift_G_MakingAWebAppAwt) [Video 8: Making a Web App]  
+    [![](https://i.ytimg.com/vi/-Nz68TaJsXI/mqdefault.jpg "Making A Web App") ](https://github.com/VaporExamplesLab/ServerSideSwift_G_MakingAWebAppAwt) 
+* [**`H_ControllersAwt`**](https://github.com/VaporExamplesLab/ServerSideSwift_H_ControllersAwt) [Video 9: Basic Controllers], [Video 10: RESTful Controllers]  
+    [![](https://i.ytimg.com/vi/g3w9u_xKNPo/mqdefault.jpg "Basic Controllers") ](https://github.com/VaporExamplesLab/ServerSideSwift_H_ControllersAwt) [![](https://i.ytimg.com/vi/K45UE3EN3X4/mqdefault.jpg "RESTful Controllers") ](https://github.com/VaporExamplesLab/ServerSideSwift_H_ControllersAwt) 
+* [**`I_ValidationAwt`**](https://github.com/VaporExamplesLab/ServerSideSwift_I_ValidationAwt) [Video 11: Basic Validation], [Video 12: Custom Validation]  
+    [![](https://i.ytimg.com/vi/s_JV3tP9rVs/mqdefault.jpg "Basic Validation") ](https://github.com/VaporExamplesLab/ServerSideSwift_I_ValidationAwt) [![](https://i.ytimg.com/vi/_No50xoCZZE/mqdefault.jpg "Custom Validation") ](https://github.com/VaporExamplesLab/ServerSideSwift_I_ValidationAwt) 
+* [**`J_RelationsAwt`**](https://github.com/VaporExamplesLab/ServerSideSwift_J_RelationsAwt) [Video 13: Parent-Child Relations], [Video 14: Sibling Relations]  
+    [![](https://i.ytimg.com/vi/acDMbAhHTbI/mqdefault.jpg "Parent-Child Relations") ](https://github.com/VaporExamplesLab/ServerSideSwift_J_RelationsAwt) [![](https://i.ytimg.com/vi/FNefMUPsITY/mqdefault.jpg "Sibling Relations") ](https://github.com/VaporExamplesLab/ServerSideSwift_J_RelationsAwt)
+* [**`K_UsersAwt`**](https://github.com/VaporExamplesLab/ServerSideSwift_K_UsersAwt) [Video 15: Registering Users], [Video 16: Authentication with Turnstile]  
+    [![](https://i.ytimg.com/vi/mAiZTB-ZEDY/mqdefault.jpg "Registering Users") ](https://github.com/VaporExamplesLab/ServerSideSwift_K_UsersAwt) [![](https://i.ytimg.com/vi/gmD59CRcXtQ/mqdefault.jpg "Authentication with Turnstile") ](https://github.com/VaporExamplesLab/ServerSideSwift_K_UsersAwt)
 
 Note: 
 
@@ -85,8 +85,10 @@ Resources [▴](#toc)
 ---------
 
 * [Codingpedia: How to test a REST api from command line with curl ⇗](http://www.codingpedia.org/ama/how-to-test-a-rest-api-from-command-line-with-curl/)
-* [Lob REST API documentation with `curl` examples ⇗](https://lob.com/docs)
+* [Lob REST API documentation: `curl` examples ⇗](https://lob.com/docs)
+* [Medium: Deploying a Vapor web app on DigitalOcean ⇗](https://medium.com/@BenjaminKJohnson/deploying-a-vapor-web-app-on-digitalocean-3bdeb4f504de) _Benjamin Johnson_
 * RESTed: [macOS App Store ⇗](https://itunes.apple.com/us/app/rested-simple-http-requests/id421879749), [home page ⇗](http://www.helloresolven.com/portfolio/rested/)
 * [Skeleton ⇗](http://getskeleton.com) CSS framework  
 * [SQLite Studio ⇗](https://sqlitestudio.pl) open source database manager
+* [Vapor Cloud ⇗](https://vapor.cloud/)
 * [YouTube/rwenderlich: Server Side Swift 3 with Vapor Tutorial Series ⇗](https://www.youtube.com/playlist?list=PL23Revp-82LIXIrfus8YdqxanjaiIOUaH) _Based on Vapor 1._
