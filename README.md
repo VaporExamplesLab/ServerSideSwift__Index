@@ -91,4 +91,4 @@ Resources [▴](#toc)
 * [Skeleton ⇗](http://getskeleton.com) CSS framework  
 * [SQLite Studio ⇗](https://sqlitestudio.pl) open source database manager
 * [Vapor Cloud ⇗](https://vapor.cloud/)
-* [YouTube/rwenderlich: Server Side Swift 3 with Vapor Tutorial Series ⇗](https://www.youtube.com/playlist?list=PL23Revp-82LIXIrfus8YdqxanjaiIOUaH) _Based on Vapor 1._
+* [YouTube/rwenderlich: Server Side Swift 3 with Vapor Tutorial Series ⇗](https://www.youtube.com/playlist?list=PL23Revp-82LIXIrfus8YdqxanjaiIOUaH) _Based on Vapor 1, Swift 3._
