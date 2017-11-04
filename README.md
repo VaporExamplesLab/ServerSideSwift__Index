@@ -49,7 +49,7 @@ Project Materials <a id="ProjectMaterials">[▴](#toc)</a>
     * (NYI: maybe do `C_FluentSqliteWeb` based on the vapor "web" template.)  
 * [**`D_FluentModelApi`**](https://github.com/VaporExamplesLab/ServerSideSwift_D_FluentModelApi) [Video 4: Persisting Models], [Video 5: CRUD Database Options].  
     [![](https://i.ytimg.com/vi/9ig7pVizpP8/mqdefault.jpg "Persisting Models") ](https://github.com/VaporExamplesLab/ServerSideSwift_D_FluentModelApi)[![](https://i.ytimg.com/vi/09w5vw_SsTQ/mqdefault.jpg "CRUD Database Options") ](https://github.com/VaporExamplesLab/ServerSideSwift_D_FluentModelApi) 
-* **`E_Deploy`**[](https://github.com/VaporExamplesLab/ServerSideSwift_E_Deploy) _[Video 6: Heroku Deployment] Skipped. Alternately, other deployment options like [DigitalOcean](https://medium.com/@BenjaminKJohnson/deploying-a-vapor-web-app-on-digitalocean-3bdeb4f504de) and [Vapor Cloud](https://vapor.cloud/) are also available._ 
+* **`E_Deploy`**[](https://github.com/VaporExamplesLab/ServerSideSwift_E_Deploy) _[Video 6: Heroku Deployment] Skipped. Alternately, other deployment options like [DigitalOcean ⇗](https://medium.com/@BenjaminKJohnson/deploying-a-vapor-web-app-on-digitalocean-3bdeb4f504de) and [Vapor Cloud ⇗](https://vapor.cloud/) are also available._ 
 * [**`F_BeautifyingPagesAwt`**](https://github.com/VaporExamplesLab/ServerSideSwift_F_BeautifyingPagesAwt) [Video 7: Beautifying Pages with Skeleton]   
     [![](https://i.ytimg.com/vi/x20XMYldIBE/mqdefault.jpg "Beautifying Pages") ](https://github.com/VaporExamplesLab/ServerSideSwift_F_BeautifyingPagesAwt)     
     <!-- NYI: Bootstrap, MathJAX, Highlight.js -->
@@ -88,7 +88,19 @@ Resources [▴](#toc)
 * [Lob REST API documentation: `curl` examples ⇗](https://lob.com/docs)
 * [Medium: Deploying a Vapor web app on DigitalOcean ⇗](https://medium.com/@BenjaminKJohnson/deploying-a-vapor-web-app-on-digitalocean-3bdeb4f504de) _Benjamin Johnson_
 * RESTed: [macOS App Store ⇗](https://itunes.apple.com/us/app/rested-simple-http-requests/id421879749), [home page ⇗](http://www.helloresolven.com/portfolio/rested/)
-* [Skeleton ⇗](http://getskeleton.com) CSS framework  
 * [SQLite Studio ⇗](https://sqlitestudio.pl) open source database manager
-* [Vapor Cloud ⇗](https://vapor.cloud/)
 * [YouTube/rwenderlich: Server Side Swift 3 with Vapor Tutorial Series ⇗](https://www.youtube.com/playlist?list=PL23Revp-82LIXIrfus8YdqxanjaiIOUaH) _Based on Vapor 1, Swift 3._
+
+_Deployment_
+
+* [Heroku ⇗](https://blog.codeship.com/how-to-deploy-nginx-on-heroku/)
+* [DigitalOcean ⇗](https://medium.com/@BenjaminKJohnson/deploying-a-vapor-web-app-on-digitalocean-3bdeb4f504de)
+* [Nginx ⇗](https://docs.vapor.codes/2.0/deploy/nginx/)
+* [Vapor Cloud ⇗](https://vapor.cloud/)
+
+
+_Front-end Frameworks_
+
+* [Bootstrap ⇗](http://getbootstrap.com/)
+* [Foundation ⇗](https://foundation.zurb.com/)
+* [Skeleton ⇗](http://getskeleton.com) 
