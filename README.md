@@ -93,9 +93,9 @@ Resources [▴](#toc)
 _API Tools_
 
 * FRequest [home page ⇗](https://github.com/random-guy/FRequest), [github ⇗](https://github.com/random-guy/FRequest) _open source_
+* HTTPie [home page ⇗](https://httpie.org/), [github ⇗](https://github.com/jakubroztocil/httpie) _open source_
 * [Postman ⇗](https://www.getpostman.com/) _closed source. free or paid "Pro"_
 * RESTed: [macOS App Store ⇗](https://itunes.apple.com/us/app/rested-simple-http-requests/id421879749), [home page ⇗](http://www.helloresolven.com/portfolio/rested/) _free, closed source_
-
 
 _Deployment_
 
