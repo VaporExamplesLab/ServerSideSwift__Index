@@ -87,9 +87,15 @@ Resources [▴](#toc)
 * [Codingpedia: How to test a REST api from command line with curl ⇗](http://www.codingpedia.org/ama/how-to-test-a-rest-api-from-command-line-with-curl/)
 * [Lob REST API documentation: `curl` examples ⇗](https://lob.com/docs)
 * [Medium: Deploying a Vapor web app on DigitalOcean ⇗](https://medium.com/@BenjaminKJohnson/deploying-a-vapor-web-app-on-digitalocean-3bdeb4f504de) _Benjamin Johnson_
-* RESTed: [macOS App Store ⇗](https://itunes.apple.com/us/app/rested-simple-http-requests/id421879749), [home page ⇗](http://www.helloresolven.com/portfolio/rested/)
 * [SQLite Studio ⇗](https://sqlitestudio.pl) open source database manager
 * [YouTube/rwenderlich: Server Side Swift 3 with Vapor Tutorial Series ⇗](https://www.youtube.com/playlist?list=PL23Revp-82LIXIrfus8YdqxanjaiIOUaH) _Based on Vapor 1, Swift 3._
+
+_API Tools_
+
+* FRequest [home page ⇗](https://github.com/random-guy/FRequest), [github ⇗](https://github.com/random-guy/FRequest) _open source_
+* [Postman ⇗](https://www.getpostman.com/) _closed source. free or paid "Pro"_
+* RESTed: [macOS App Store ⇗](https://itunes.apple.com/us/app/rested-simple-http-requests/id421879749), [home page ⇗](http://www.helloresolven.com/portfolio/rested/) _free, closed source_
+
 
 _Deployment_
 
@@ -97,7 +103,6 @@ _Deployment_
 * [DigitalOcean ⇗](https://medium.com/@BenjaminKJohnson/deploying-a-vapor-web-app-on-digitalocean-3bdeb4f504de)
 * [Nginx ⇗](https://docs.vapor.codes/2.0/deploy/nginx/)
 * [Vapor Cloud ⇗](https://vapor.cloud/)
-
 
 _Front-end Frameworks_
 
