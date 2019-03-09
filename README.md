@@ -8,11 +8,11 @@
 
 _The ["Server Side Swift with Vapor"](https://videos.raywenderlich.com/courses/115-server-side-swift-with-vapor/lessons/1) video tutorial series is based on PostgreSQL, Swift 4 & Vapor 3. A completed project for the tutorial series is provided at [raywenderlich/vapor-til](https://github.com/raywenderlich/vapor-til)._
 
-_The [evapor-til-sqlite](https://github.com/VaporExamplesLab/vapor-til-sqlite) project replaces PostgreSQL with SQLite._
+_The [vapor-til-sqlite](https://github.com/VaporExamplesLab/vapor-til-sqlite) project replaces PostgreSQL with SQLite._
 
 ## Prerequisites <a id="Prerequisites">[▴](#toc)</a>
 
-Install [Xcode 9 ⇗](https://itunes.apple.com/us/app/xcode/id497799835?mt=12). _Swift 4.1 installs as part of Xcode 9. Launch Xcode to complete an initial installation._  
+Install [Xcode 10 ⇗](https://itunes.apple.com/us/app/xcode/id497799835?mt=12). _Swift 4.2 installs as part of Xcode 10. Launch Xcode to complete an initial installation._  
 
 Install [Homebrew ⇗](https://brew.sh/) 
 
@@ -23,10 +23,11 @@ Install [Homebrew ⇗](https://brew.sh/)
 curl -sL check.vapor.sh # review script
 # run script
 eval "$(curl -sL check.vapor.sh)"
-# ✅  Xcode 9 is compatible with Vapor 2.
-# ✅  Xcode 9 is compatible with Vapor 3.
-# ✅  Swift 4.1 is compatible with Vapor 2.
-# ✅  Swift 4.1 is compatible with Vapor 3.
+# ✅  Xcode 10 is compatible with Vapor 2.
+# ✅  Xcode 10 is compatible with Vapor 3.
+# 
+# ✅  Swift 4.2 is compatible with Vapor 2.
+# ✅  Swift 4.2 is compatible with Vapor 3.
 ``` 
 
 **Install Vapor**
