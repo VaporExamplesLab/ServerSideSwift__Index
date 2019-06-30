@@ -10,7 +10,7 @@ _The ["Server Side Swift with Vapor"](https://videos.raywenderlich.com/courses/1
 
 _The [vapor-til-sqlite](https://github.com/VaporExamplesLab/vapor-til-sqlite) project replaces PostgreSQL with SQLite._
 
-## Prerequisites <a id="Prerequisites">[▴](#toc)</a>
+## Prerequisites <a id="Prerequisites"></a>[▴](#toc)
 
 Install [Xcode 10 ⇗](https://itunes.apple.com/us/app/xcode/id497799835?mt=12). _Swift 4.2 installs as part of Xcode 10. Launch Xcode to complete an initial installation._  
 
@@ -41,7 +41,7 @@ brew info vapor
 brew install vapor
 ``` 
 
-## Resources <a id="Resources">[▴](#toc)</a>
+## Resources <a id="Resources"></a>[▴](#toc)
 
 * [Codingpedia: How to test a REST api from command line with curl ⇗](http://www.codingpedia.org/ama/how-to-test-a-rest-api-from-command-line-with-curl/)
 * [Lob REST API documentation: `curl` examples ⇗](https://lob.com/docs)
